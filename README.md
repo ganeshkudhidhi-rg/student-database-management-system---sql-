@@ -1,2 +1,36 @@
-# student-database-management-system---sql-
-Designed and implemented relational database tables to store and manage student academic records.  • Wrote optimized SQL queries using SELECT, WHERE, ORDER BY, GROUP BY, and JOIN operations.  • Generated summary reports on student performance and attendance using aggregate functions. 
+# Student Database Management System (SQL)
+
+## Project Overview
+This is a beginner-friendly SQL project that stores and manages student academic records.
+
+## Features
+- Store student details
+- Store course information
+- Store marks
+- Generate reports using SQL
+
+## Tables
+1. Students
+2. Courses
+3. Marks
+
+## SQL Concepts Used
+- CREATE TABLE
+- INSERT
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- INNER JOIN
+- COUNT()
+- AVG()
+- MAX()
+- MIN()
+
+## Sample Reports
+- Student marks
+- Average marks by course
+- Top scoring students
+
+Suitable for fresher SQL/Data Analyst portfolios.
+
